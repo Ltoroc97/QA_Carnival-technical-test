@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_400 800 500 720</name>
+   <tag></tag>
+   <elementGuidId>b55ab06d-b9a6-48c7-8bc2-9aa04f7c453d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sfc-xfilters']/ccl-cruise-search-bar-xfilters-pricing/div/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;sfc-xfilters&quot;)/ccl-cruise-search-bar-xfilters-pricing[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;filter-price ng-scope ng-isolate-scope&quot;]/div[@class=&quot;sfp-component-wrapper&quot;]/div[@class=&quot;sfp-component&quot;]/div[@class=&quot;sfp-component__dragger-wrapper&quot;]/div[@class=&quot;sfp-slider&quot;]/div[@class=&quot;ui-slider ng-scope&quot;]/div[@class=&quot;rzslider ng-isolate-scope&quot;][count(. | //*[(text() = '    $400 $800 $500 $720 ' or . = '    $400 $800 $500 $720 ')]) = count(//*[(text() = '    $400 $800 $500 $720 ' or . = '    $400 $800 $500 $720 ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rzslider ng-isolate-scope</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tealium</name>
+      <type>Main</type>
+      <value>sfp-pricing-slider</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rz-slider-model</name>
+      <type>Main</type>
+      <value>model.priceRange.minPrice</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rz-slider-high</name>
+      <type>Main</type>
+      <value>model.priceRange.maxPrice</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rz-slider-options</name>
+      <type>Main</type>
+      <value>model.priceSliderOptions</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    $400 $800 $500 $720 </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sfc-xfilters&quot;)/ccl-cruise-search-bar-xfilters-pricing[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;filter-price ng-scope ng-isolate-scope&quot;]/div[@class=&quot;sfp-component-wrapper&quot;]/div[@class=&quot;sfp-component&quot;]/div[@class=&quot;sfp-component__dragger-wrapper&quot;]/div[@class=&quot;sfp-slider&quot;]/div[@class=&quot;ui-slider ng-scope&quot;]/div[@class=&quot;rzslider ng-isolate-scope&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sfc-xfilters']/ccl-cruise-search-bar-xfilters-pricing/div/div/div/div[2]/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price Range Avg Per Person'])[1]/following::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Pricing'])[1]/following::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

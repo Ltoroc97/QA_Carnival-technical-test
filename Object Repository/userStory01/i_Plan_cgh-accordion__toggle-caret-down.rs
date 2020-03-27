@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Plan_cgh-accordion__toggle-caret-down</name>
+   <tag></tag>
+   <elementGuidId>2acbc039-7a28-4093-8e93-7de68e24e1bd</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cgh-accordion__toggle-caret-down</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cclr-global-header-root&quot;)/div[@class=&quot;cclr-global-header-wrapper&quot;]/header[@class=&quot;cgh-header&quot;]/nav[@class=&quot;cgh-header__main-menu&quot;]/div[@class=&quot;cgh-header__main-menu-options-wrapper&quot;]/ul[@class=&quot;cgh-header__main-menu-options cgh-header__main-menu-options--left&quot;]/li[@class=&quot;cgh-header__main-menu-item&quot;]/div[@class=&quot;cgh-accordion&quot;]/a[@class=&quot;cgh-accordion__toggle cgh-accordion__toggle--desktop&quot;]/i[@class=&quot;cgh-accordion__toggle-caret-down&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cclr-global-header-root']/div/header/nav[2]/div[2]/ul/li[3]/div/a/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a/i</value>
+   </webElementXpaths>
+</WebElementEntity>
